@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Website Saya</title>
+  <style>
+    body {
+      background-color: black;
+      display: flex;
+      height: 100vh;
+      margin: 0;
+    }
+
+    p {
+      color: green;
+    }
+  </style>
+</head>
+<body>
+  <p>
+    Subject: Command Injection Vulnerability Report
+    <br><br>
+    Dear [Website Owner/Administrator],
+    <br><br>
+    I hope this message finds you well. I am writing to inform you about a potential security vulnerability that I discovered on your website. This vulnerability is related to Command Injection, which could pose a significant risk to the security and integrity of your website and its users.
+    <br><br>
+    Description of the Vulnerability:
+    Through the upload section of your website, I found that it is possible to execute arbitrary commands using the CMD (Command Prompt) by appending them to the URL query parameters. For example, by using the following format: <code>https://ncpd.gov.sa/uploads?cmd=ls</code>, the "ls" command is executed in the CMD, displaying a directory listing.
+    <br><br>
+    Potential Risks:
+    Command Injection allows unauthorized individuals to execute arbitrary commands on your web server. This poses serious security risks, including but not limited to:
+    <br><br>
+    1. Unauthorized access to sensitive data and files on your server.
+    <br>
+    2. Execution of malicious commands that could compromise your server's functionality.
+    <br>
+    3. Potential exposure of user data and confidential information.
+  </p>
+</body>
+</html>
