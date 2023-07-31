@@ -6,3 +6,152 @@ Data Update 30/07/2023
 # Daftar Wilayah yang ada
 | No   |  Nama Wilayah   |  Jumlah Jemaat  |
 |:----:|:---------------:|:---------------:|
+| 1 | AIRMADIDI I | 8 |
+| 2 | AIRMADIDI II | 5 |
+| 3 | AIRMADIDI TIGA | 5 |
+| 4 | Amurang Empat | 6 |
+| 5 | AMURANG I | 7 |
+| 6 | AMURANG II | 5 |
+| 7 | AMURANG III | 6 |
+| 8 | BANGKA | 5 |
+| 9 | BELANG | 5 |
+| 10 | BITUNG I | 9 |
+| 11 | BITUNG II | 6 |
+| 12 | BITUNG III | 4 |
+| 13 | BITUNG IV | 11 |
+| 14 | BITUNG IX | 10 |
+| 15 | BITUNG V | 10 |
+| 16 | BITUNG VI | 11 |
+| 17 | BITUNG VII | 8 |
+| 18 | BITUNG VIII | 11 |
+| 19 | BITUNG X | 6 |
+| 20 | BITUNG XI | 10 |
+| 21 | BITUNG XII | 7 |
+| 22 | BITUNG XIII | 6 |
+| 23 | BUNAKEN | 8 |
+| 24 | BUNAKEN MANNA | 5 |
+| 25 | DIMALAK | 8 |
+| 26 | GABATA | 6 |
+| 27 | JABODETABEK | 9 |
+| 28 | JOSEPH KAM KORA-KORA | 7 |
+| 29 | KAKAS I | 10 |
+| 30 | KAKAS II | 8 |
+| 31 | KAKASKASEN | 7 |
+| 32 | KALAWAT 3 | 6 |
+| 33 | KALAWAT EMPAT | 5 |
+| 34 | KALAWAT I | 6 |
+| 35 | KALAWAT II | 6 |
+| 36 | KAWANGKOAN | 8 |
+| 37 | KAWANGKOAN II | 6 |
+| 38 | KEMA | 8 |
+| 39 | KEMBES | 11 |
+| 40 | KUMELEMBUAI | 6 |
+| 41 | LANGOWAN I | 7 |
+| 42 | LANGOWAN II | 7 |
+| 43 | LANGOWAN III | 6 |
+| 44 | LANGOWAN IV | 7 |
+| 45 | LANGOWAN KELELONDEI | 7 |
+| 46 | LANGOWAN V | 5 |
+| 47 | LEMBEAN KOMBI | 9 |
+| 48 | LEMBEAN KORA-KORA | 6 |
+| 49 | LIKUPANG I | 7 |
+| 50 | LIKUPANG II | 14 |
+| 51 | LIKUPANG III | 5 |
+| 52 | LOKON EMPUNG | 5 |
+| 53 | MAESA | 8 |
+| 54 | MANADO BARAT DAYA | 10 |
+| 55 | MANADO MALALAYANG | 7 |
+| 56 | MANADO MALALAYANG BARAT | 7 |
+| 57 | MANADO MALALAYANG TIMUR | 6 |
+| 58 | MANADO MAPANGET TUMPA DUA | 7 |
+| 59 | MANADO MAPANGET TUMPA SATU | 8 |
+| 60 | MANADO SARIO | 4 |
+| 61 | MANADO SELATAN | 5 |
+| 62 | MANADO SELATAN I | 6 |
+| 63 | MANADO SENTRUM | 6 |
+| 64 | MANADO TELING | 5 |
+| 65 | MANADO TELING TINGKULU | 5 |
+| 66 | MANADO TENGGARA | 9 |
+| 67 | MANADO TIMUR I | 7 |
+| 68 | MANADO TIMUR II | 5 |
+| 69 | MANADO TIMUR III | 8 |
+| 70 | MANADO TIMUR IV | 9 |
+| 71 | MANADO TIMUR V | 5 |
+| 72 | MANADO TIMUR VI | 5 |
+| 73 | MANADO TITIWUNGEN | 4 |
+| 74 | MANADO UTARA I | 10 |
+| 75 | MANADO UTARA II | 9 |
+| 76 | MANADO UTARA III | 9 |
+| 77 | MANADO UTARA IV | 8 |
+| 78 | MANADO WAWONASA KOMBOS | 8 |
+| 79 | MANADO WINANGUN | 7 |
+| 80 | MANDOLANG I | 8 |
+| 81 | MANDOLANG II | 7 |
+| 82 | MAPANGET I | 11 |
+| 83 | MAPANGET II | 9 |
+| 84 | MAPANGET III | 5 |
+| 85 | MAPANGET IV | 6 |
+| 86 | MINAWEROT | 8 |
+| 87 | MINAWEROT I | 7 |
+| 88 | MODOINDING | 8 |
+| 89 | MOTOLING | 6 |
+| 90 | MOTOLING LOLOMBULAN | 6 |
+| 91 | MOTOLING TIMUR | 8 |
+| 92 | PAKOLOR INDAH | 5 |
+| 93 | PASAN | 7 |
+| 94 | PINAESAAN | 7 |
+| 95 | PINASIOWAN | 4 |
+| 96 | PINELENG | 7 |
+| 97 | PUSOMAEN | 5 |
+| 98 | RANOIAPO | 6 |
+| 99 | RANOIAPO SATU | 5 |
+| 100 | RATAHAN | 14 |
+| 101 | RATATOTOK | 9 |
+| 102 | REMBOKEN | 7 |
+| 103 | REMBOKEN 1 | 7 |
+| 104 | SEA | 8 |
+| 105 | SEMENANJUNG | 6 |
+| 106 | SEREI | 7 |
+| 107 | SEREI SATU | 5 |
+| 108 | SINONSAYANG | 12 |
+| 109 | SONDER | 6 |
+| 110 | SONDER I | 7 |
+| 111 | TALAWAAN | 6 |
+| 112 | TANAWANGKO I | 10 |
+| 113 | TANAWANGKO II | 6 |
+| 114 | TANDENGAN | 7 |
+| 115 | TARERAN II | 6 |
+| 116 | TARERAN SATU | 7 |
+| 117 | TARERAN TIGA | 5 |
+| 118 | TATAPAAN INDAH | 7 |
+| 119 | TATELU | 6 |
+| 120 | TATELU 1 | 5 |
+| 121 | TENGA | 6 |
+| 122 | TENGA SATU | 7 |
+| 123 | TOMBATU | 8 |
+| 124 | TOMBATU BARAT | 9 |
+| 125 | TOMBATU SELATAN | 7 |
+| 126 | TOMBATU TIMUR | 8 |
+| 127 | TOMBATU UTARA | 7 |
+| 128 | TOMOHON DUA | 6 |
+| 129 | TOMOHON III | 8 |
+| 130 | TOMOHON IV | 7 |
+| 131 | TOMOHON LIMA | 5 |
+| 132 | TOMOHON SATU | 7 |
+| 133 | TOMOHON SENTRUM | 5 |
+| 134 | TOMPASO BARU I | 9 |
+| 135 | TOMPASOBARU | 10 |
+| 136 | TONDANO | 6 |
+| 137 | TONDANO ENAM | 5 |
+| 138 | TONDANO I | 6 |
+| 139 | TONDANO II | 8 |
+| 140 | TONDANO IV | 5 |
+| 141 | TONDANO TIGA | 5 |
+| 142 | TONDANO V | 7 |
+| 143 | TUMOMPASO I | 9 |
+| 144 | TUMOMPASO II | 6 |
+| 145 | TUMPAAN | 8 |
+| 146 | WAREMBUNGAN | 5 |
+| 147 | WORI I | 8 |
+| 148 | WORI II | 6 |
+| 149 | -jemaat-non-wilayah- | 17 |
