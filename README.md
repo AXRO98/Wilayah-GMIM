@@ -3,7 +3,7 @@ Sumber Website https://dashboard.gmim.info/
 
 Data Update 30/07/2023
 
-# Daftar Wilayah yang ada
+# Daftar Wilayah
 | No   |  Nama Wilayah   |  Jumlah Jemaat  |
 |:----:|:---------------:|:---------------:|
 | 1 | AIRMADIDI I | 8 |
