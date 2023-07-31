@@ -155,3 +155,4 @@ Data Update 30/07/2023
 | 147 | WORI I | 8 |
 | 148 | WORI II | 6 |
 | 149 | -jemaat-non-wilayah- | 17 |
+| 150 | -jemaat-total- | 1061 |
