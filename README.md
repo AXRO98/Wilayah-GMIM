@@ -1,6 +1,5 @@
 # Wilayah Gereja Masehi Injili di Minahasa 
 Sumber Data: https://dashboard.gmim.info/
-
 Data Update 30/07/2023
 
 # Daftar Wilayah
